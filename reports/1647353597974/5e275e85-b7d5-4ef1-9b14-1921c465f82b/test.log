@@ -1,0 +1,11 @@
+[2022-03-15 02:13:19] [1] [WARN] Reporting disabled: using no op test run registrar
+[2022-03-15 02:13:19] [1] [INFO] TEST [mobileTesting - testLoginUser] STARTED at [11:13:19 2022-03-15]
+[2022-03-15 02:13:31] [1] [INFO] PASS: element 'nextBtn' is clicked.
+[2022-03-15 02:13:33] [1] [INFO] PASS: keys cleared in element 'nameInputField'.
+[2022-03-15 02:13:35] [1] [INFO] PASS: keys 'Test user' are sent to element 'nameInputField'.
+[2022-03-15 02:13:37] [1] [INFO] PASS: keys cleared in element 'passwordInputField'.
+[2022-03-15 02:13:39] [1] [INFO] PASS: keys 'ZyNteSdArO' are sent to element 'passwordInputField'.
+[2022-03-15 02:13:41] [1] [INFO] PASS: element 'maleRadioBtn' is clicked.
+[2022-03-15 02:13:43] [1] [INFO] PASS: element 'privacyPolicyCheckbox' is clicked.
+[2022-03-15 02:13:44] [1] [INFO] PASS: element 'loginBtn' is clicked.
+[2022-03-15 02:13:46] [1] [INFO] TEST [mobileTesting - testLoginUser] PASSED at [11:13:46 2022-03-15]
